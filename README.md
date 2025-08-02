@@ -1,2 +1,2 @@
-# omo_v2
-version2
+# omo_v1
+version1
